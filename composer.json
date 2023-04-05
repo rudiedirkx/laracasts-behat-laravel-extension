@@ -16,9 +16,9 @@
         }
     },
     "require": {
-        "php": ">=5.4",
-        "behat/behat": "~3.0",
-        "behat/mink-browserkit-driver": "~1.2"
+        "php": "^8.0",
+        "behat/behat": "^3.0",
+        "behat/mink-browserkit-driver": "^2.1"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.1",
